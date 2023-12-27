@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    background-color: #eee;
+    font-family: 'Playpen Sans', cursive;
+}
+
+.keeper{
+    color: #eee;
+    display: inline-block;
+    margin-left: 2vw;
+}
+
+.header{
+    margin: 0;
+    display: inline-block;
+    width: 100%;
+    background-color:#eeb20e;
+    opacity: 0.9;
+    box-shadow: 0 0 10px 0 #939393 ;
+}
+
+.note-structure{
+    width: 15vw;
+    background-color: white;
+    box-shadow: 0 3px 5px 0 #939393;
+    text-align: left;
+    margin: 1vw 1.3vw;
+    border-radius: 0.5vw;
+    padding: 0.2vw 0.5vw;
+}
+
+.note-title{
+    font-size: 1.7vw;
+}
+
+.note-content{
+    font-size: 1.3vw;
+}
+
+.footer-content{
+    color: #c3c1c1;
+    font-size: 1.5vw;
+    margin-bottom: 2vw;
+}
+
+.footer{
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+}
